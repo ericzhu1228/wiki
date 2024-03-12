@@ -1,3 +1,2 @@
 # Agriculture
 
-Seeds
