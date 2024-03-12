@@ -16,7 +16,8 @@
 * [3. Gameplay](beginner-guide/3.-gameplay.md)
 * [4. NPC (Spoiler)](beginner-guide/4.-npc-spoiler.md)
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
-* [6. Events](beginner-guide/6.-events.md)
+* [6. Rewards](beginner-guide/6.-rewards.md)
+* [7. Events](beginner-guide/7.-events.md)
 
 ## Content
 
