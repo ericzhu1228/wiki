@@ -6,5 +6,5 @@
 
 2. Click **Add Server** and enter the IP address "mctown.net".  Click "Done".
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
