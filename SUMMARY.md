@@ -53,6 +53,8 @@
     * [Repulsive Dish](content/luxurious-food/dishes/repulsive-dish.md)
     * [Glazed Ham](content/luxurious-food/dishes/glazed-ham.md)
     * [Beef Kebab](content/luxurious-food/dishes/beef-kebab.md)
+    * [Chicken Kebab](content/luxurious-food/dishes/chicken-kebab.md)
+    * [Fruit Salad](content/luxurious-food/dishes/fruit-salad.md)
 * [Fishing](content/fishing.md)
 * [Enchantments](content/enchantments.md)
 * [Other Features](content/other-features.md)
