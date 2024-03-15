@@ -1,3 +1,7 @@
 # Chocolate Milk
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+## Recipe
+
+Cocoa Beans + Milk Bucket
