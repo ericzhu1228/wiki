@@ -1,3 +1,3 @@
 # Luxurious Food
 
-This system is completed and a wiki will be added soon. Mostly requires a wiki to understand.
+This system allows you to cook a lot of fancy foods with a cooking pot.
