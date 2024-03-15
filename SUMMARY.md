@@ -56,7 +56,7 @@
     * [Chicken Kebab](content/luxurious-food/dishes/chicken-kebab.md)
     * [Fruit Salad](content/luxurious-food/dishes/fruit-salad.md)
 * [Fishing](content/fishing.md)
-* [Enchantments](content/enchantments.md)
+* [Advanced Enchantments](content/advanced-enchantments.md)
 * [Other Features](content/other-features.md)
 
 ## Community Tutorials
