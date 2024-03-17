@@ -1,6 +1,6 @@
 # Cooking Pot
 
-The cooking pot can be purchased from the chef NPC.
+The cooking pot can be purchased from the cook NPC.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
