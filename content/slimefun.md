@@ -15,4 +15,5 @@ Addons we are using:\
 [SimpleMaterialGenerators](https://github.com/Sefiraat/SMG)\
 [Ecopower](https://github.com/TheBusyBiscuit/EcoPower)\
 [InfinityExpansion](https://github.com/Mooy1/InfinityExpansion)\
-[VillagerUtil](https://github.com/Apeiros-46B/VillagerUtil)
+[VillagerUtil](https://github.com/Apeiros-46B/VillagerUtil)\
+[GeneticChickengineering](https://github.com/kii-chan-reloaded/GeneticChickengineering)
