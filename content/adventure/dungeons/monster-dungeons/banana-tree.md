@@ -1,10 +1,10 @@
-# Page 1
+# Banana Tree
 
 
 
 <figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-Biomes: Grassland\
+Biome: Grassland\
 \
 Mobs:\
 \- Tiger\
