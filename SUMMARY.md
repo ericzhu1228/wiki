@@ -23,7 +23,8 @@
 
 * [Adventure](content/adventure/README.md)
   * [Intro](content/adventure/intro.md)
-  * [Equipments](content/adventure/equipments.md)
+  * [Equipments](content/adventure/equipments/README.md)
+    * [Template](content/adventure/equipments/template.md)
   * [Weapons](content/adventure/weapons/README.md)
     * [Ice Shard Scepter](content/adventure/weapons/ice-shard-scepter.md)
     * [Glacia Scepter](content/adventure/weapons/glacia-scepter.md)
