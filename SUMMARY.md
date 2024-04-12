@@ -118,7 +118,8 @@
     * [Berry Milk](content/luxurious-food/dishes/berry-milk.md)
 * [Fishing](content/fishing.md)
 * [Advanced Enchantments](content/advanced-enchantments.md)
-* [Other Features](content/other-features.md)
+* [Other Features](content/other-features/README.md)
+  * [Skill Stats](content/other-features/skill-stats.md)
 
 ## Community Tutorials
 
