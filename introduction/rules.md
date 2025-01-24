@@ -22,17 +22,15 @@ Game Rules
 
 &#x20;  2.1 Death Traps are not allowed.
 
-&#x20;  2.2 Griefing is not allowed. (including making claims to mess up other players' building area on purpose)
+&#x20;  2.2 Griefing is not allowed. (including making claims to mess up other players' building area on purpose) (Note: Use land claims wisely! Staff are not responsible for loss outside claims)
 
 &#x20;  2.3 Inappropriate buildings/skins/names/etc. are not allowed.
 
 &#x20;  2.4 Hacks(fly, killaura, speed, etc.), Macros(auto farming, auto fishing, etc.), or any other ways of unfair advantages(glitch abuse, xray, etc.) are not allowed.
 
-&#x20;  2.5 All behaviors that significantly affect the running of the server are not allowed. (DDOS, Exploiting Bugs, Lagging the Server)
+&#x20;  2.5 All behaviors that significantly affect the server's running are not allowed. (DDOS, Exploiting Bugs, Lagging the Server)
 
-&#x20;  2.6 Stealing is not allowed.
-
-&#x20;  2.7 Bypassing PvP restriction when not intended by the system to kill other players is not allowed.
+&#x20;  2.6 Bypassing restriction when not intended by the system is not allowed. (such as killing players, breaking blocks through exploits in protected areas)
 
 
 
