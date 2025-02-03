@@ -1,4 +1,4 @@
 # FAQ
 
-1. I'm getting Invalid Player Data error when I try to join, what shall I do?\
-   A: This is a common known error and we are trying to fix it. Right now just try rejoin a few times.
+1. The resource pack is not loading for me correctly. What should I do?\
+   A: Please try joining with version1.20.x (preferably 1.20.1).
