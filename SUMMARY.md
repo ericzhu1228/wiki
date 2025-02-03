@@ -14,7 +14,7 @@
 * [1. Getting Started](beginner-guide/1.-getting-started.md)
 * [2. Commands](beginner-guide/2.-commands.md)
 * [3. Gameplay](beginner-guide/3.-gameplay.md)
-* [4. NPC (Spoiler)](beginner-guide/4.-npc-spoiler.md)
+* [4. NPC Locations(Spoiler)](beginner-guide/4.-npc-locations-spoiler.md)
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
 * [6. Rewards](beginner-guide/6.-rewards.md)
 * [7. Events](beginner-guide/7.-events.md)
