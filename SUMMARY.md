@@ -117,6 +117,7 @@
     * [Bacon and Eggs](content/luxurious-food/dishes/bacon-and-eggs.md)
     * [Berry Milk](content/luxurious-food/dishes/berry-milk.md)
 * [Fishing](content/fishing.md)
+* [Guild](content/guild.md)
 * [Advanced Enchantments](content/advanced-enchantments.md)
 * [Other Features](content/other-features/README.md)
   * [Skill Stats](content/other-features/skill-stats.md)
