@@ -119,8 +119,7 @@
 * [Fishing](content/fishing.md)
 * [Guild](content/guild.md)
 * [Advanced Enchantments](content/advanced-enchantments.md)
-* [Other Features](content/other-features/README.md)
-  * [Skill Stats](content/other-features/skill-stats.md)
+* [Other Features](content/other-features.md)
 
 ## Community Tutorials
 
