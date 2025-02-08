@@ -12,7 +12,7 @@
 
 * [Prologue](beginner-guide/prologue.md)
 * [1. Getting Started](beginner-guide/1.-getting-started.md)
-* [2. Commands](beginner-guide/2.-commands.md)
+* [2. Useful Commands](beginner-guide/2.-useful-commands.md)
 * [3. Intro to Gameplay](beginner-guide/3.-intro-to-gameplay.md)
 * [4. NPC Locations(Spoiler)](beginner-guide/4.-npc-spoiler.md)
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
