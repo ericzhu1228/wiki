@@ -16,7 +16,7 @@
 * [3. Intro to Gameplay](beginner-guide/3.-intro-to-gameplay.md)
 * [4. NPC Locations(Spoiler)](beginner-guide/4.-npc-spoiler.md)
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
-* [6. Adittional Rewards](beginner-guide/6.-adittional-rewards.md)
+* [6. Adittional Rewards](beginner-guide/6.-rewards.md)
 * [7. Events](beginner-guide/7.-events.md)
 
 ## Content
