@@ -1,9 +1,8 @@
 # Volcano
 
+<figure><img src="../../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-
-Biome: Grassland\
+Biome: Desert\
 \
 Mobs:\
-\- Tiger\
-\- White Tiger
+\- [Capra](../../mobs/boss/capra.md)

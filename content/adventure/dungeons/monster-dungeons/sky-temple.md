@@ -1,9 +1,8 @@
 # Sky Temple
 
+<figure><img src="../../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-
-Biomes: Grassland\
+Biomes: Any\
 \
 Mobs:\
-\- Tiger\
-\- White Tiger
+\- [Zeus](../../mobs/boss/zeus.md)

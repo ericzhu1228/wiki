@@ -7,5 +7,5 @@
 Biome: Grassland\
 \
 Mobs:\
-\- Tiger\
-\- White Tiger
+\- [Tiger](../../mobs/minions/tiger.md)\
+\- [White Tiger](../../mobs/minions/white-tiger.md)

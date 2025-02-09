@@ -1,9 +1,8 @@
 # Shadow Outpost
 
+<figure><img src="../../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-
-Biomes: Grassland\
+Biomes: Barren\
 \
 Mobs:\
-\- Tiger\
-\- White Tiger
+\- [Shadow Knight](../../mobs/boss/shadow-knight.md)

@@ -2,8 +2,7 @@
 
 
 
-Biomes: Grassland\
+Biomes: Snowy\
 \
 Mobs:\
-\- Tiger\
-\- White Tiger
+\- [Ice Breaker](../../mobs/elite/ice-breaker.md)
