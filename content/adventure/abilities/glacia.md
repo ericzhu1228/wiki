@@ -1,0 +1,5 @@
+# Glacia
+
+
+
+<table data-header-hidden><thead><tr><th width="194"></th><th width="205"></th><th width="372"></th><th width="125"></th></tr></thead><tbody><tr><td>Name</td><td>Damage</td><td>Description</td><td>Cooldown</td></tr><tr><td>Frost Bolt</td><td>Base Damage: Attack Damage x3<br><br>Mutliplier: Ability</td><td></td><td>4 s</td></tr><tr><td>Ice Spike</td><td>Base Damage: 20-40<br><br>Mutliplier: Ability</td><td></td><td>12 s</td></tr><tr><td>Hailstorm</td><td>Base Damage: 80<br><br>Mutliplier: Ability</td><td></td><td>30 s</td></tr><tr><td>Frost Beam</td><td>Base Damage: Attack Damage x1.5<br><br>Mutliplier: Ability</td><td></td><td>15 s</td></tr><tr><td>Ice Wall</td><td>Base Damage: 40<br><br>Mutliplier: Ability</td><td></td><td>15 s</td></tr></tbody></table>
