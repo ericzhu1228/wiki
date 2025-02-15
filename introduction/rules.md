@@ -40,7 +40,7 @@ Community Rules
 
 &#x20;  3.2 Account selling or trading in-game items for in-real-life money is not allowed.
 
-&#x20;  3.3 Scamming is not allowed.
+&#x20;  3.3 Scamming is not allowed. (including in-game)
 
 &#x20;  3.4 Leaking unreleased content information is not allowed.
 
