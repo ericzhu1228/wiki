@@ -129,3 +129,7 @@
 ## Community Tutorials
 
 * [oops none yet](community-tutorials/oops-none-yet.md)
+
+## Terms of Service
+
+* [Purchase](terms-of-service/purchase.md)
