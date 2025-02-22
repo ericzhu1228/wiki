@@ -128,7 +128,7 @@
 
 ## Community Tutorials
 
-* [oops none yet](community-tutorials/oops-none-yet.md)
+* [None yet](community-tutorials/none-yet.md)
 
 ## Terms of Service
 
