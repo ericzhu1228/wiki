@@ -17,7 +17,7 @@
 * [4. NPC Locations(Spoiler)](beginner-guide/4.-npc-spoiler.md)
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
 * [6. PvP](beginner-guide/6.-pvp.md)
-* [7. Adittional Rewards](beginner-guide/7.-adittional-rewards.md)
+* [7. Additional Rewards](beginner-guide/7.-additional-rewards.md)
 * [8. Events](beginner-guide/8.-events.md)
 
 ## Content
