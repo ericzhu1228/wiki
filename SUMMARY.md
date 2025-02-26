@@ -20,6 +20,10 @@
 * [7. Additional Rewards](beginner-guide/7.-additional-rewards.md)
 * [8. Events](beginner-guide/8.-events.md)
 
+## Full Community Tutorials
+
+* [Open for community submissions!](full-community-tutorials/open-for-community-submissions.md)
+
 ## Content
 
 * [Adventure](content/adventure/README.md)
@@ -125,10 +129,6 @@
 * [Guild](content/guild.md)
 * [Advanced Enchantments](content/advanced-enchantments.md)
 * [Other Features](content/other-features.md)
-
-## Community Tutorials
-
-* [None yet](community-tutorials/none-yet.md)
 
 ## Terms of Service
 
