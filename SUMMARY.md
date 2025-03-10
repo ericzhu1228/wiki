@@ -18,7 +18,7 @@
 * [5. Land Claim](beginner-guide/5.-land-claim.md)
 * [6. PvP](beginner-guide/6.-pvp.md)
 * [7. Additional Rewards](beginner-guide/7.-additional-rewards.md)
-* [8. Events](beginner-guide/8.-events.md)
+* [8. News](beginner-guide/8.-news.md)
 
 ## Full Community Tutorials
 
@@ -125,6 +125,11 @@
     * [Cotton Candy](content/luxurious-food/dishes/cotton-candy.md)
     * [Bacon and Eggs](content/luxurious-food/dishes/bacon-and-eggs.md)
     * [Berry Milk](content/luxurious-food/dishes/berry-milk.md)
+* [Events](content/events/README.md)
+  * [Gem Mine](content/events/gem-mine.md)
+  * [Raid Boss - Ender Dragon](content/events/raid-boss-ender-dragon.md)
+  * [Raid Boss - Wither](content/events/raid-boss-wither.md)
+  * [Raid Boss - Crimson Broodmother](content/events/raid-boss-crimson-broodmother.md)
 * [Fishing](content/fishing.md)
 * [Guild](content/guild.md)
 * [Advanced Enchantments](content/advanced-enchantments.md)
