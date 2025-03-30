@@ -51,6 +51,7 @@
     * [Lustrous Void](content/adventure/abilities/lustrous-void.md)
     * [Dragon Warrior](content/adventure/abilities/dragon-warrior.md)
   * [Mobs](content/adventure/mobs/README.md)
+    * [Mob Levels](content/adventure/mobs/mob-levels.md)
     * [Boss](content/adventure/mobs/boss/README.md)
       * [Zeus](content/adventure/mobs/boss/zeus.md)
       * [Kronos](content/adventure/mobs/boss/kronos.md)
