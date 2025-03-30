@@ -10,7 +10,7 @@ A mob's level is determined by its distance from the world origin (0,0). The far
 
 As a mob's level increases, its stats and loot rewards scale accordingly:
 
-* **Loot Drops**: The amount of loot a mob drops is directly proportional to its level.
+* **Loot Drops**: The amount of loot a mob drops is directly proportional to its level. (Capped at 10 times)
   * **Formula**: `Total Drops = Base Drop * Level`
 * **Damage Scaling**: Higher-level mobs deal exponentially more damage.
   * **Formula**: `Damage = Base Damage * (1.5 ^ (Level - 1))`
