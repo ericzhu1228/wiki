@@ -50,6 +50,7 @@
     * [Poseidon](content/adventure/abilities/poseidon.md)
     * [Lustrous Void](content/adventure/abilities/lustrous-void.md)
     * [Dragon Warrior](content/adventure/abilities/dragon-warrior.md)
+    * [Phoenix](content/adventure/abilities/phoenix.md)
   * [Mobs](content/adventure/mobs/README.md)
     * [Mob Levels](content/adventure/mobs/mob-levels.md)
     * [Boss](content/adventure/mobs/boss/README.md)

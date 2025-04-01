@@ -4,5 +4,5 @@ The adventure system centers around new gears, mobs, and challenges. You can obt
 \
 A few things to note:\
 1\. Most [dungeons](dungeons/) only generate in specific biomes\
-2\. [Mobs](mobs/) heal 10% of their maximum health when killing a player\
+2\. [Mobs](mobs/) heal 10% of their maximum health(prior to [Mob Levels Scaling](mobs/mob-levels.md)) when killing a player\
 3\. The adventure world resets every once in a while
